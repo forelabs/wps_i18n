@@ -5,57 +5,65 @@
     <name>KGalleryClient</name>
     <message>
         <source>gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>коллекция</translation>
     </message>
     <message>
         <source>shape</source>
-        <translation type="unfinished"></translation>
+        <translation>форма</translation>
     </message>
 </context>
 <context>
     <name>KxDlgEditGallery</name>
     <message>
         <source>EditGallery</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Изменить коллекцию</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation type="unfinished"></translation>
+        <translation>От:</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Текст</translation>
     </message>
     <message>
         <source>Caption:</source>
-        <translation type="unfinished"></translation>
+        <translation>Надпись:</translation>
     </message>
     <message>
         <source>Label:</source>
-        <translation type="unfinished"></translation>
+        <translation>Метка:</translation>
     </message>
     <message>
         <source>The Most Number Of Caption Is 5.</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Наибольшее количество записей - 5.</translation>
     </message>
     <message>
         <source>More:</source>
-        <translation type="unfinished"></translation>
+        <translation>Больше:</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Каталог:</translation>
     </message>
     <message>
         <source>Notes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Записи:</translation>
     </message>
     <message>
         <source>Less:</source>
+        <translation>Меньше:</translation>
+    </message>
+    <message>
+        <source>Edit Gallery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The most number of caption is 5.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -63,25 +71,25 @@
     <name>KxEditGalleryDlg</name>
     <message>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>Больше</translation>
     </message>
     <message>
         <source>Less</source>
-        <translation type="unfinished"></translation>
+        <translation>Меньше</translation>
     </message>
 </context>
 <context>
     <name>QApplication</name>
     <message>
-        <source>\Kingsoft Office\Desktop.ini name.</source>
+        <source>\WPS Office\Desktop.ini name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>\Kingsoft Office\AppData\Desktop.ini name.</source>
+        <source>\WPS Office\AppData\Desktop.ini name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>\Kingsoft Office\AppData\My Materials\Desktop.ini name.</source>
+        <source>\WPS Office\AppData\My Materials\Desktop.ini name.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -89,7 +97,7 @@
     <name>WPSGalleryClass</name>
     <message>
         <source>WPSGallery</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 </TS>

@@ -5,47 +5,51 @@
     <name>KHomepage</name>
     <message>
         <source>Failed in downloading &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка загрузки &quot;%1&quot;.</translation>
     </message>
 </context>
 <context>
     <name>KHomepageMainWindow</name>
     <message>
         <source>Create a blank document at startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать пустой документ при запуске</translation>
     </message>
     <message>
         <source>Current version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Текущая версия:</translation>
     </message>
     <message>
         <source>This is the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Последняя версия.</translation>
     </message>
     <message>
         <source>Version is too old.</source>
-        <translation type="unfinished"></translation>
+        <translation>Версия устарела.</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;online&quot; style=&quot;text-decoration:none&quot;&gt;Use new version&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;online&quot; style=&quot;text-decoration:none&quot;&gt;Скачайте новую версию&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Restart to use newer version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезапустить для использования новой версии</translation>
     </message>
     <message>
         <source>Online Templates</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Из Интернета</translation>
     </message>
     <message>
         <source>Check Online Templates</source>
         <comment>tooltip</comment>
-        <translation type="unfinished"></translation>
+        <translation>Просмотреть шаблоны из Интернета</translation>
     </message>
     <message>
         <source>Online Templates</source>
         <comment>title</comment>
+        <translation>Из Интернета</translation>
+    </message>
+    <message>
+        <source>docerhomepage</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
