@@ -1,4 +1,4 @@
-KSO/WPS I18n
+KSO/WPS I18n test
 ================================================================================
 KSO/WPS internationalization support.
 
